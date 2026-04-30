@@ -174,3 +174,4 @@ def update_inventory_after_sale(items):
         print(f"[INFO] Inventory updated and saved to {file_path}")
     except Exception as e:
         print(f"[ERROR] Failed to save updated inventory: {e}")
+#next focus on sales reports
